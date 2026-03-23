@@ -1,24 +1,101 @@
-# 💫 About Me:
-I am a software engineer. I am passionate about back-end development. Currently, I am working on an HR system and excited to collaborate on projects that utilize React or involve APIs. I’m looking for help with React, and I love to travel.
+# 👋 Hi, I'm Mohammad Shahabuddin
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohammad.shahabuddin.1238/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahabuddin14/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23284834/shahabuddin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shahabuddin650) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shahabuddin14&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahabuddin14&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabuddin14&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shahabuddin14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💼 Senior Backend Engineer | PHP | Laravel | REST APIs  
+📍 Dhaka, Bangladesh | Open to Remote & EU Relocation  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shahabuddin14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+Senior Backend Engineer with 5+ years of experience building scalable backend systems for SaaS and FinTech platforms.
+
+- 🔧 Built 20+ secure REST APIs for high-traffic systems  
+- ⚡ Improved system performance and reduced latency through DB optimization  
+- 🔐 Strong focus on API security (JWT, OAuth2) and system reliability  
+- 🌍 Experience working with international remote teams  
+
+Currently working on scalable financial systems and backend architectures.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/shahabuddin14  
+- 💻 GitHub: https://github.com/Shahabuddin14  
+- 📧 Email: shahabuddin650@gmail.com  
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- PHP, Laravel  
+- REST APIs, MVC Architecture  
+- Service-Oriented Architecture  
+
+### Databases
+- MySQL, MSSQL  
+- Query Optimization, Indexing, Schema Design  
+
+### Security & APIs
+- JWT Authentication  
+- OAuth2  
+- API Security Best Practices  
+
+### Frontend (Basic)
+- React, JavaScript, HTML, CSS  
+
+### Tools & DevOps
+- Git, Linux  
+- CI/CD Pipelines  
+
+---
+
+## 📌 Key Projects
+
+### 💸 Remittance Platform (Remit Sheba / RemitBook)
+- Built scalable system for cross-border transactions  
+- Integrated multiple banking APIs  
+- Reduced response time by **~15%** through DB optimization  
+
+**Tech:** Laravel, PHP, MySQL, MSSQL  
+
+---
+
+### 🎓 eLearning Platform
+- Developed course management system with authentication & RBAC  
+- Supported 100+ users  
+
+**Tech:** Laravel, React, MySQL  
+
+---
+
+### 🏦 Bangladesh Bank Reporting System (ISS)
+- Automated financial reporting workflows  
+- Reduced manual errors and processing time  
+
+**Tech:** PHP, MySQL  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shahabuddin14&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Shahabuddin14&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabuddin14&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Current Focus
+
+- Scalable backend architecture  
+- High-performance API systems  
+- FinTech & SaaS platforms  
+- Exploring advanced system design  
+
+---
+
+## ⚡ Fun Fact
+I enjoy traveling and exploring new technologies 🚀
