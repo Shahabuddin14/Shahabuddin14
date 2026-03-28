@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Senior Backend Engineer with 5+ years of experience building scalable backend systems for SaaS and FinTech platforms.
+Backend Engineer with 5+ years of experience building scalable backend systems for SaaS and FinTech platforms.
 
 - 🔧 Built 20+ secure REST APIs for high-traffic systems  
 - ⚡ Improved system performance and reduced latency through DB optimization  
