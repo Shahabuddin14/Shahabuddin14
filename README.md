@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Shahabuddin
 
-💼 Senior Backend Engineer | PHP | Laravel | REST APIs  
+💼 Backend Engineer | PHP | Laravel | REST APIs  
 📍 Dhaka, Bangladesh | Open to Remote & EU Relocation  
 
 ---
